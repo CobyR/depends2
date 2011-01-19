@@ -1,1 +1,16 @@
-null
+Depends 2
+
+1 - Read the README
+2 - Clone respository
+3 - gem install bundler
+4 - bundle install
+5 - brew install graphviz
+6 - rake db:migrate
+7 - If it's after 5, go pull a pint off the keg
+
+== Assumptions ==
+You have a functioning ruby dev environment.
+    it includes RVM
+    and SQLite3
+    and you have homebrew installed for step 5
+    or know enough to make step 5 happen without homebrew
